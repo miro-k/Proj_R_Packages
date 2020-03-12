@@ -1,0 +1,10 @@
+Package: mcf
+Type: Package
+Title: Miscellaneous Custom Functions
+Version: 1.3
+Date: 2020-03-07
+Author: Miroslav Kucera
+Maintainer: Miroslav Kucera <kuceram@gmail.com>
+Description: A collection of custom functions for data summaries, etc.
+License: 
+RoxygenNote: 7.0.2
